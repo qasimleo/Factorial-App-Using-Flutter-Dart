@@ -1,4 +1,4 @@
-# factorial_app
+# Factorial Application in Dart - Flutter
 
 A new Flutter project.
 
